@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Added
 
--  Added configuration fields for malware detection 
+-  Added configuration fields for malware detection
 
 ### Android
 
