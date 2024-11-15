@@ -15,9 +15,9 @@ export type TalsecIosConfig = {
     appTeamId: string;
 };
 export type TalsecMalwareConfig = {
-    blocklistedHashes?: string[];
-    blocklistedPackageNames?: string[];
-    blocklistedPermissions?: string[][];
+    blacklistedHashes?: string[];
+    blacklistedPackageNames?: string[];
+    suspiciousPermissions?: string[][];
     whitelistedInstallationSources?: string[];
 };
 export type SuspiciousAppInfo = {
